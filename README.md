@@ -28,3 +28,5 @@ With this data trimming, we have a weight of 68Megas between all the files
 I have left a copy of these files in the [datos] folder, each file corresponds to a month.
 These files do not have a date field between their fields, so once loaded and cleaned, 
 i will add a date field, which will represent the year and month to which the data belongs.
+
+<!-- Añadir una imagen del propio repositorio:  ![](YoYo/WebSite%20Images/YoYo-1.png) -->
