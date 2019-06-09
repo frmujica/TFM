@@ -1,32 +1,23 @@
-# Ship Prediction System
+# Predicción de Envíos para Empresa de Logística
 
-## TFM KSchool
+`#DataScience` | `#TimeSeries` | `#Logistics`
+<br></br>
+Bienvenido a este Proyecto.
 
-Autor: Francisco Mújica
+Este repositorio contiene un proyecto de data science, enfocado a conseguir **predicciones de envíos para una empresa de transportes**, con el objetivo de que ésta pueda ser más efectiva a la hora de realizar ajustes de recursos y precios en sus servicios.
 
-Year: 2019
+En la wiki de este repositorio encontrarás toda la documentación relativa al proyecto:
 
-Edition: 12
+[https://github.com/albertorekena/master-data-science/wiki](https://github.com/albertorekena/master-data-science/wiki)
 
-The files I have are too big.
-I have 15 files corresponding to the 15 months.
-With more than 90 fields and an average of 500,000 records.
-The average weight of the files is 500 mega.
+**Si quieres ir directamente a alguno de los puntos tratados, su Tabla de Contenidos es la siguiente:**
+1. [Objetivo](https://github.com/albertorekena/master-data-science/wiki/Objetivo)
+2. [Adquisición de los Datos](https://github.com/albertorekena/master-data-science/wiki/Adquisici%C3%B3n-de-los-Datos)
+3. [Tecnología Utilizada](https://github.com/albertorekena/master-data-science/wiki/Tecnolog%C3%ADa-Utilizada)
+4. [Cómo Ejecutar el Código](https://github.com/albertorekena/master-data-science/wiki/C%C3%B3mo-Ejecutar-el-C%C3%B3digo)
+5. [Análisis Exploratorio](https://github.com/albertorekena/master-data-science/wiki/An%C3%A1lisis-Exploratorio)
+6. [Prophet](https://github.com/albertorekena/master-data-science/wiki/Prophet)
+7. [Visualizaciones y Data Analysis](https://github.com/albertorekena/master-data-science/wiki/Visualizaciones-y-Data-Analysis)
+8. [Sobre los Autores](https://github.com/albertorekena/master-data-science/wiki/Sobre-los-Autores)
 
-Due to the large amount of data, to make the prediction of shipments by destination, 
-I have reduced the files to a first version with only three fields in each file.
-We continue with an average of 500,000 records, but we are left with the fields of:
-
-```
-[Product cod]    : With code of type of service
-[Origin Country] : With the country code of origin
-[Destin Country] : With the country code of destination
-```
-
-With this data trimming, we have a weight of 68Megas between all the files
-
-I have left a copy of these files in the [datos] folder, each file corresponds to a month.
-These files do not have a date field between their fields, so once loaded and cleaned, 
-i will add a date field, which will represent the year and month to which the data belongs.
-
-<!-- Añadir una imagen del propio repositorio:  ![](YoYo/WebSite%20Images/YoYo-1.png) -->
+**Desarrollado Por [Francisco Mújica](https://www.linkedin.com/in/francisco-m%C3%BAjica-de-la-mora-6ba816135/) y [Alberto Rekena](https://es.linkedin.com/in/albertorekena)**
