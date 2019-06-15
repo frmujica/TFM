@@ -8,17 +8,29 @@ Este repositorio contiene un proyecto de data science, enfocado a conseguir **pr
 
 En la wiki de este repositorio encontrarás toda la documentación relativa al proyecto:
 
-[https://github.com/albertorekena/master-data-science/wiki](https://github.com/albertorekena/master-data-science/wiki)
+[https://github.com/frmujica/TFM/wiki](https://github.com/frmujica/TFM/wiki)
 
 **Si quieres ir directamente a alguno de los puntos tratados, su Tabla de Contenidos es la siguiente:**
-1. [Objetivo](https://github.com/albertorekena/master-data-science/wiki/Objetivo)
-2. [Adquisición de los Datos](https://github.com/albertorekena/master-data-science/wiki/Adquisici%C3%B3n-de-los-Datos)
-3. [Tecnología Utilizada](https://github.com/albertorekena/master-data-science/wiki/Tecnolog%C3%ADa-Utilizada)
-4. [Cómo Ejecutar el Código](https://github.com/albertorekena/master-data-science/wiki/C%C3%B3mo-Ejecutar-el-C%C3%B3digo)
-5. [Análisis Exploratorio](https://github.com/albertorekena/master-data-science/wiki/An%C3%A1lisis-Exploratorio)
-6. [Prophet](https://github.com/albertorekena/master-data-science/wiki/Prophet)
-7. [RNN](https://github.com/albertorekena/master-data-science/wiki/RNN)
-8. [Visualizaciones y Data Analysis](https://github.com/albertorekena/master-data-science/wiki/Visualizaciones-y-Data-Analysis)
-9. [Sobre los Autores](https://github.com/albertorekena/master-data-science/wiki/Sobre-los-Autores)
+<ol>
+<li><a href="https://github.com/frmujica/TFM/wiki/Objetivo">Objetivo</a></li>
+
+<li><a href="https://github.com/frmujica/TFM/wiki/Adquisición-de-los-Datos">Adquisición de los Datos</a></li>
+
+<li><a href="https://github.com/frmujica/TFM/wiki/Tecnología-Utilizada">Tecnología Utilizada</a></li>
+
+
+<li><a href="https://github.com/frmujica/TFM/wiki/Cómo-Ejecutar-el-Código">Cómo Ejecutar el Código</a></li>
+
+<li><a href="https://github.com/frmujica/TFM/wiki/Análisis-Exploratorio">Análisis Exploratorio</a></li>
+
+<li><a href="https://github.com/frmujica/TFM/wiki/Prophet">Prophet</a></li>
+
+<li><a href="https://github.com/frmujica/TFM/wiki/RNN">RNN</a></li>
+
+<li><a href="https://github.com/frmujica/TFM/wiki/Visualizaciones-y-Data-Analysis">Visualizaciones y Data Analysis</a></li>
+
+<li><a href="https://github.com/frmujica/TFM/wiki/Sobre-los-Autores">Sobre los Autores</a></li>
+</ol>
+
 
 **Desarrollado Por [Francisco Mújica](https://www.linkedin.com/in/francisco-m%C3%BAjica-de-la-mora-6ba816135/) y [Alberto Rekena](https://es.linkedin.com/in/albertorekena)**
