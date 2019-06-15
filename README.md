@@ -36,6 +36,8 @@ DataFrames: [https://drive.google.com/drive/folders/1a0zMNAicHmOCXX72lSVRjtgm2Sf
 
 <li><a href="https://github.com/frmujica/TFM/wiki/Visualizaciones-y-Data-Analysis">Visualizaciones y Data Analysis</a></li>
 
+<li><a href="https://github.com/frmujica/TFM/wiki/Generaci%C3%B3n-de-DataFrame-para-la-visualizaci%C3%B3n">Generacion del DataFrame para Tableau o  Altair</a></li>
+
 <li><a href="https://github.com/frmujica/TFM/wiki/Sobre-los-Autores">Sobre los Autores</a></li>
 </ol>
 
