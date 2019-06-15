@@ -33,4 +33,4 @@ En la wiki de este repositorio encontrarás toda la documentación relativa al p
 </ol>
 
 
-**Desarrollado Por [Francisco Mújica](https://www.linkedin.com/in/francisco-m%C3%BAjica-de-la-mora-6ba816135/) y [Alberto Rekena](https://es.linkedin.com/in/albertorekena)**
+**Desarrollado Por  [Alberto Rekena](https://es.linkedin.com/in/albertorekena)** y [Francisco Mújica](https://www.linkedin.com/in/francisco-m%C3%BAjica-de-la-mora-6ba816135/)
