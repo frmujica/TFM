@@ -8,11 +8,11 @@ Este repositorio contiene un proyecto de data science, enfocado a conseguir **pr
 
 En la wiki de este repositorio encontrarás toda la documentación relativa al proyecto:
 
-[https://github.com/frmujica/TFM/wiki](https://github.com/frmujica/TFM/wiki)
+Wiki:       [https://github.com/frmujica/TFM/wiki](https://github.com/frmujica/TFM/wiki)
 
-Notebooks: [https://github.com/frmujica/TFM/tree/master/Notebooks](https://github.com/frmujica/TFM/tree/master/Notebooks)
+Notebooks:  [https://github.com/frmujica/TFM/tree/master/Notebooks](https://github.com/frmujica/TFM/tree/master/Notebooks)
 
-Datos: [https://drive.google.com/drive/folders/1GfeNKbIS6yz_qq5LwPe_rMO5zHgd3_VR](https://drive.google.com/drive/folders/1GfeNKbIS6yz_qq5LwPe_rMO5zHgd3_VR)
+Datos:      [https://drive.google.com/drive/folders/1GfeNKbIS6yz_qq5LwPe_rMO5zHgd3_VR](https://drive.google.com/drive/folders/1GfeNKbIS6yz_qq5LwPe_rMO5zHgd3_VR)
 
 DataFrames: [https://drive.google.com/drive/folders/1a0zMNAicHmOCXX72lSVRjtgm2SfoXFmY](https://drive.google.com/drive/folders/1a0zMNAicHmOCXX72lSVRjtgm2SfoXFmY)
 
